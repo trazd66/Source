@@ -1,4 +1,4 @@
-// As a beginner who downloaded UE4 less than two weeks, I had a lot of trouble finding the right solution
+// As a beginner who downloaded UE4 for less than two weeks, I had a lot of trouble finding the right solution
 // of how to rotate a character so that it faces the cursor(in a top down game), I feel like such basic operation should not 
 // be a struggle to do. But anyway it may just be me lacking the google skill... Enjoy!
 
